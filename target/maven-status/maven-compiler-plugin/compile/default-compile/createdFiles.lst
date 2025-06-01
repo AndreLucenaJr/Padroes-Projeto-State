@@ -1,0 +1,8 @@
+state/PedidoPronto.class
+state/PedidoEstado.class
+state/Pedido.class
+state/PedidoConfirmado.class
+state/PedidoPreparando.class
+state/PedidoCancelado.class
+state/PedidoEntregue.class
+state/PedidoAberto.class

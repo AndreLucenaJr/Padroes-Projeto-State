@@ -1,0 +1,8 @@
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/PedidoEntregue.java
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/PedidoEstado.java
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/Pedido.java
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/PedidoPronto.java
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/PedidoAberto.java
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/PedidoPreparando.java
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/PedidoConfirmado.java
+/home/gastox/Documentos/studyspace/Padroes-Projeto-State/src/main/java/state/PedidoCancelado.java
